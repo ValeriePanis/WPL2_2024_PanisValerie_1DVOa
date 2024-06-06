@@ -60,3 +60,85 @@
     color: aqua;
     border-bottom: solid aqua;
 }
+
+.contact-formulier {
+    max-width: 37rem;
+    margin: 5rem auto;
+    background-color: aqua;
+    padding: 1.5rem;
+    border-radius: 0.60rem;
+    color: white;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    margin-top: 0;
+}
+form label, input{
+    color: white;
+
+}
+form label {
+    background-color: black;
+    display: block;
+    margin-bottom: 1px;
+    color: white;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+form textarea{
+    color: white;
+    text-decoration: white;
+}
+form input[id="onderwerp"],
+form input[id="bericht"],
+form textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 10px;
+    border-radius: 1px;
+    background-color: black;
+    color: white;
+}
+
+
+form input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
+
+
+.contact-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+.contact-info p{
+    padding-right: 1.5rem;
+    font-size: 1.2rem;
+    padding-bottom: 2rem;
+}
+.social-icons{
+    font-size: 1.5rem;
+}
+.social-icons a{
+    color: white;
+    text-decoration: none;
+
+}

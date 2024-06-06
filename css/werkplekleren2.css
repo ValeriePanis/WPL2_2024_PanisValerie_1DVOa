@@ -60,3 +60,23 @@
     color: aqua;
     border-bottom: solid aqua;
 }
+
+.hardskillsrij-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.hardskills input {
+    color: aqua;
+    padding: 20px;
+}
+.hardskillsrij-3 img {
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    margin-bottom: 5rem;
+    border-radius: 20%;
+    margin-left: 4rem;
+    justify-content: center;
+}

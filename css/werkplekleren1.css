@@ -61,3 +61,215 @@
     color: aqua;
     border-bottom: solid aqua;
 }
+
+
+.container2 {
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.hardskills-container {
+    margin-top: 5rem;
+    margin-left: 3rem;
+    font-size: 1rem;
+    color: white;
+}
+.hardskills-container h1{
+    text-shadow: 0 0 25px aqua;
+    transform: scale(1.1);
+}
+
+.hardskills-time1 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time2 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time3 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskillsrij-1 img {
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    margin-bottom: 5rem;
+    border-radius: 20%;
+    margin-left: 4rem;
+}
+
+.hardskillsrij-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.hardskills-time4 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time5 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time6 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskillsrij-2 img {
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    margin-bottom: 5rem;
+    border-radius: 20%;
+    margin-left: 4rem;
+    justify-content: center;
+}
+
+.hardskillsrij-2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.hardskills input {
+    color: aqua;
+    padding: 20px;
+}
+
+.hardskillsrij-2 img {
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    margin-bottom: 5rem;
+    border-radius: 20%;
+    margin-left: 4rem;
+    justify-content: center;
+}
+.container2 {
+    font-size: 1.2rem;
+    margin-top: 2rem; /* Adjust this margin if needed */
+    margin-bottom: 1rem;
+}
+
+.hardskills-container h1 {
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+.hardskills-time1 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time2 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time3 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskillsrij-1 img {
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    margin-bottom: 5rem;
+    border-radius: 20%;
+    margin-left: 4rem;
+}
+
+.hardskillsrij-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.hardskills-time4 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time5 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time6 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskillsrij-2 img {
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    margin-bottom: 5rem;
+    border-radius: 20%;
+    margin-left: 4rem;
+    justify-content: center;
+}
+
+.hardskillsrij-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.hardskills input {
+    color: aqua;
+    padding: 20px;
+}
+
+.hardskillsrij-2 img {
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    margin-bottom: 5rem;
+    border-radius: 20%;
+    margin-left: 4rem;
+    justify-content: center;
+}
+.hardskills progress{
+    background-color: black;
+    color: aqua;
+}
