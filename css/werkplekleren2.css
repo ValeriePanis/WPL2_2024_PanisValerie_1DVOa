@@ -60,7 +60,76 @@
     color: aqua;
     border-bottom: solid aqua;
 }
+.hardskills-container{
+    display: flex;
+    justify-content: center;
+}
+.hardskills-container h1 {
+    margin-top: 5rem;
+    padding-left: 2rem;
+    color: white;
+}
+.hardskills-container h1{
+    text-shadow: 0 0 25px aqua;
+    transform: scale(1.1);
+}
 
+.hardskills-time4 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time5 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskills-time6 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+
+.hardskillsrij-2 img {
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    margin-bottom: 5rem;
+    border-radius: 20%;
+    margin-left: 4rem;
+    justify-content: center;
+}
+
+.hardskillsrij-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.hardskills input {
+    color: aqua;
+    padding: 20px;
+}
+
+.hardskillsrij-2 img {
+    margin-top: 3rem;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    margin-bottom: 5rem;
+    border-radius: 20%;
+    margin-left: 4rem;
+    justify-content: center;
+}
+.hardskills progress{
+    background-color: black;
+    color: aqua;
+}
 .hardskillsrij-3 {
     display: flex;
     justify-content: center;
@@ -79,4 +148,22 @@
     border-radius: 20%;
     margin-left: 4rem;
     justify-content: center;
+}
+.hardskills-time7 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+.hardskills-time8 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
+}
+.hardskills-time9 {
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 8rem;
+    color: aqua;
 }
